@@ -140,7 +140,7 @@ To fix the linter use:
 
 This Rails API, was created to work with:
 
-[Rails Back end](https://github.com/Zven94/hello-rails-back-end)
+[React Front end](https://github.com/Zven94/hello-react-front-end.git)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
